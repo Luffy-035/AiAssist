@@ -4,6 +4,8 @@
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://aiassist-bice.vercel.app)
+
 
 > **Create intelligent AI chatbots that provide instant customer support. Built with Next.js 15, powered by advanced AI, and ready to deploy in minutes.**
 
